@@ -4,7 +4,7 @@ A stylish take on the classic calculator app; this project featues minimalist, s
 ![banner_image](https://i.imgur.com/ElkG7G9.png)
 
 ## Run the Numbers
-[JS-Calculator]
+[JS-Calculator](https://js-calculator-hurx.onrender.com/)
 
 ## Technologies Used
 * HTML
